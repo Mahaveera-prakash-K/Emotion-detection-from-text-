@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../emotion detection/Emotion detection/emotion_detection_text/data"
+		},
+		{
+			"path": "../../../../../emotion detection/Emotion detection/emotion_detection_text/models"
+		},
+		{
+			"path": "../../../../../emotion detection/Emotion detection/emotion_detection_text/notebooks"
+		},
+		{
+			"path": "../../../../../emotion detection/Emotion detection/emotion_detection_text/src"
+		}
+	]
+}
